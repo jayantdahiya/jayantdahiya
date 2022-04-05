@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@jayantdahiya](https://medium.com/@jayantdahiya)
 
-- 💬 Ask me about **@ATTREQ**
+- 💬 Ask me about [https://github.com/jayantdahiya/ATTREQ]**@ATTREQ**
 
 - 📫 How to reach me **jayantdahiya1999@gmail.com**
 
