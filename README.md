@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jayant Dahiya</h1>
 <h3 align="center">Software Engineer</h3>
 
-- 🌱 I’m currently learning **DeepLearning and FullStack Development**
+- 🌱 I’m currently learning **DeepLearning and Blockchain Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/jayantdahiya](https://github.com/jayantdahiya)
 
