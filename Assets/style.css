@@ -2572,7 +2572,7 @@ blockquote {
     display: grid;
     grid-auto-columns: 1fr;
     grid-column-gap: 0px;
-    grid-row-gap: 20vh;
+    grid-row-gap: 15vh;
     -ms-grid-columns: 1fr 1fr;
     grid-template-columns: 1fr 1fr;
     -ms-grid-rows: auto auto;
